@@ -1,5 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My%20name%20is%20homin&fontSize=90&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=fadeIn)
+<h1 align="left" id="mynameishomin-title">:wave: Hello there! My name is homin</h1>
+<h3 align="left">I am a front-end developer</h3>
+
+<div align="left">
+  <a href="https://github.com/mynameishomin/mynameishomin">
+    <img src="https://komarev.com/ghpvc/?username=mynameishomin" alt="page views" />
+  </a>
+  <a href="https://blog.mynameishomin.com">
+    <img alt="website" src="https://img.shields.io/website?url=https%3A%2F%2Fblog.mynameishomin.com">
+  </a>
+</div>
 
 [![Homin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameishomin&theme=highcontrast&show_icons=true)](https://github.com/mynameishomin/github-readme-stats)
-
-github 프로필 수정중
