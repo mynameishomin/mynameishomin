@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-  안녕하세요 제 이름은 호민입니다. 저는 햄스터 한 마리, Macbook Air M1, Nintendo Switch, 여자친구와 함께 경기도 부천시 원룸 오피스텔에 살고 있습니다. 저는 2022년 1월부터 웹퍼블리셔로 일하며 경험을 쌓기 시작했고 이제는 반응형 웹, 웹 표준, 웹 접근성을 바탕으로 HTML, CSS, Javascript를 능숙하게 다룰 수 있습니다. 지금은 널리소프트에서 프론트엔드 개발자로 일하고 있고 한국방송통신대학교에서 학업과 함께 웹 관련 기술을 공부하는 중입니다.
+  안녕하세요 제 이름은 호민입니다. 저는 햄스터 한 마리, Macbook Air M1, Nintendo Switch, 여자친구와 함께 경기도 부천시 원룸 오피스텔에 살고 있습니다. 저는 2022년 1월부터 웹퍼블리셔로 일하며 경험을 쌓기 시작했고 이제는 반응형 웹, 웹 표준, 웹 접근성을 바탕으로 HTML, CSS, Javascript를 능숙하게 다룰 수 있습니다.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>일 하고 싶을 때 일 하고 놀고 싶을 때 놀고 싶어요</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
